@@ -1,7 +1,10 @@
 # Proyecto Final
+
+
 ## Descripción del proyecto
 Grace es una tienda de zapatos
 proyecto fue desarrollado con Wordpress utilizando una plantilla de Boilerplate. A continuación se describen los detalles para poder llevar a producción el proyecto.
+
 
 ## Instrucciones del despliegue
 
@@ -19,3 +22,8 @@ proyecto fue desarrollado con Wordpress utilizando una plantilla de Boilerplate.
 
 
 		* Contact form
+		* Breadcrumb
+		* Hola Dolly
+		* Bootstrap for Contact form 7
+		* Akismet Anti-spam
+		* Advanced Custom Fields
