@@ -6,9 +6,9 @@ proyecto fue desarrollado con Wordpress utilizando una plantilla de Boilerplate.
 ## Instrucciones del despliegue
 
 1. Descripciones al instalar wordpress:
-		1. usuario: Camila
-		2. clave: Mz5^Y91zUCZq0naB33
-		3. prefijo Base de datos: cp_
+		* usuario: Camila
+		* clave: Mz5^Y91zUCZq0naB33
+		* prefijo Base de datos: cp_
 
 2. Plugins utilizados:
-		1. Contact form
+		* Contact form
